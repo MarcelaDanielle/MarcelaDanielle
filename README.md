@@ -2,10 +2,11 @@
 
 💻  Estudante de Front-End
 
-<di>
-  <img heigth="180cm" scr="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
-  <img heigth="180cm" scr="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
-</div>
+<a href="https://github.com/MarcelaDanielle/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcelaDanielle&show_icons=true&theme=synthwave" />
+</a>
+
+<a href="
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
